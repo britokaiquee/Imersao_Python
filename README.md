@@ -3,9 +3,7 @@ Link da minha planilha (aulas 1 e 2): https://docs.google.com/spreadsheets/d/1II
 
 Diferentes trabalhos em Python
 
-Descrição do Projeto: Este é um exercício simples de Python com uma planilha contendo dados financeiros de diversas empresas brasileiras, incluindo
-
-preços das ações,
+Descrição do Projeto: Este é um exercício simples de Python com uma planilha contendo dados financeiros de diversas empresas brasileiras, incluindo preços das ações,
 métricas de desempenho diárias e históricas,
 informações da empresa como setor e idade, e
 pontos de dados adicionais como quantidade teórica e um valor "Redutor". Isso poderia ser usado por qualquer novo aluno financeiro de Python.
