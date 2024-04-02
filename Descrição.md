@@ -1,6 +1,8 @@
 # Imersao_Python
 Link da minha planilha (aulas 1 e 2): https://docs.google.com/spreadsheets/d/1IIHb1-JKB2co68_O6yO08FNKQ68Qp0bl5URdjZqv1b4/edit?usp=sharing
 
+Planilha usada no Google Colab: https://docs.google.com/spreadsheets/d/11M7RcSaF7q5RX2XXvNwzjKEi8B3PRSNqHg0Rm-cqed0/edit?usp=sharing
+
 Diferentes trabalhos em Python
 
 Descrição do Projeto: Este é um exercício simples de Python com uma planilha contendo dados financeiros de diversas empresas brasileiras, incluindo preços das ações,
