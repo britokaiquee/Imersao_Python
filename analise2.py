@@ -1,7 +1,7 @@
 # Continuação do arquivo analise_dados
 # Data: 10/05 - aulas 4 e 5 da Imersão Python.
 # Obs: a imersão foi entre 25 a 29 de março, mas resolvi passar esses códigos
-# que fiz no Coolab pro VS Code só hoje.
+# que fiz no Coolab pro VS Code.
 
 # Instalando as bibliotecas (módulos)
 
