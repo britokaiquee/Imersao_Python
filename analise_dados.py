@@ -1,5 +1,4 @@
 # Criação do arquivo: dia 02/04/2024 - aulas 2 e 3 da Imersão Python.
-# Obs: Lembre-se que os comentários se referem a linha de código abaixo.
 
 # ↓↓↓ Importando as bibliotecas ↓↓↓
 
